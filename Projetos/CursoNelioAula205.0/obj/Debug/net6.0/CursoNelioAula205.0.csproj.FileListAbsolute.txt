@@ -1,0 +1,5 @@
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula205.0\obj\Debug\net6.0\CursoNelioAula205.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula205.0\obj\Debug\net6.0\CursoNelioAula205.0.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula205.0\obj\Debug\net6.0\CursoNelioAula205.0.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula205.0\obj\Debug\net6.0\CursoNelioAula205.0.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula205.0\obj\Debug\net6.0\CursoNelioAula205.0.sourcelink.json
