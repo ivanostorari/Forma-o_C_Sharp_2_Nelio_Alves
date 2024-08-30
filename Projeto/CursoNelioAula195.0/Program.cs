@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Projeto_Xadrez_Curso_Nelio_Aula1950
+namespace Curso_Nelio_Aula1950
 {
     internal class Program
     {
