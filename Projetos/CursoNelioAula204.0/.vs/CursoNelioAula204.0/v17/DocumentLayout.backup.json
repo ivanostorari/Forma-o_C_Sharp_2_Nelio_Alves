@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula204.0\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|solutionrelative:entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula204.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula204.0\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|solutionrelative:entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula204.0\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|solutionrelative:entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula204.0\\services\\braziltexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|solutionrelative:services\\braziltexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula204.0\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C74EB20-532F-4F33-B8BC-5093D3A7188A}|CursoNelioAula204.0.csproj|solutionrelative:services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Services\\RentalService.cs",
+              "RelativeToolTip": "Services\\RentalService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:43:45.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrazilTexService.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Services\\BrazilTexService.cs",
+              "RelativeDocumentMoniker": "Services\\BrazilTexService.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Services\\BrazilTexService.cs",
+              "RelativeToolTip": "Services\\BrazilTexService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:43:37.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:43:18.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:42:59.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:41:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula204.0\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T19:27:23.127Z",
               "EditorCaption": ""
