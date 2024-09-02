@@ -17,6 +17,5 @@ namespace Curso_Nelio_Aula2040.Services
         public void ProcessInvoice(CarRental carRental) 
         {
         }
-
     }
 }
