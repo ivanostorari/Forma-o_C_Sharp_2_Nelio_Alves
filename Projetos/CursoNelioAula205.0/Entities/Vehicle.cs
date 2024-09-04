@@ -1,10 +1,10 @@
 ﻿namespace Curso_Nelio_Aula2050.Entities
 {
-    internal class Vehicle
+    class Vehicle
     {
-        public int Model { get; set; }
+        public string Model { get; set; }
 
-        public Vehicle(int model)
+        public Vehicle(string model)
         {
             Model = model;
         }
