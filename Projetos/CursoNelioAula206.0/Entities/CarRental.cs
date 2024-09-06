@@ -1,4 +1,5 @@
-﻿using Curso_Nelio_Aula2060.Entities;
+﻿
+using Curso_Nelio_Aula2060.Entities;
 using System;
 
 namespace Curso_Nelio_Aula2060.Entities

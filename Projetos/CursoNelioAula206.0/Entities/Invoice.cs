@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Curso_Nelio_Aula200.Entities
+namespace Curso_Nelio_Aula2060.Entities
 {
     internal class Invoice
     {

@@ -10,9 +10,9 @@ namespace Curso_Nelio_Aula2060.Services
             {
                 return amount * 0.2;
             }
-            else 
-            { 
-                return amount * 0.15; 
+            else
+            {
+                return amount * 0.15;
             }
         }
     }
