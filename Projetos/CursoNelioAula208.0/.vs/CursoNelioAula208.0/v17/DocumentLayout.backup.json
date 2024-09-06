@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula208.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula208.0\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|solutionrelative:services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula208.0\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|solutionrelative:services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula208.0\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|solutionrelative:services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula208.0\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|solutionrelative:entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula208.0\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|solutionrelative:entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula208.0\\cursonelioaula208.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D805ABD7-724D-4EB6-8DBE-FF2110320870}|CursoNelioAula208.0.csproj|solutionrelative:cursonelioaula208.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Services\\PaypalService.cs",
+              "RelativeToolTip": "Services\\PaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:21:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOnlinePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Services\\IOnlinePaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\IOnlinePaymentService.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Services\\IOnlinePaymentService.cs",
+              "RelativeToolTip": "Services\\IOnlinePaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:21:25.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "Services\\ContractService.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Services\\ContractService.cs",
+              "RelativeToolTip": "Services\\ContractService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:20:51.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Entities\\Installment.cs",
+              "RelativeDocumentMoniker": "Entities\\Installment.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Entities\\Installment.cs",
+              "RelativeToolTip": "Entities\\Installment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:18:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Entities\\Contract.cs",
+              "RelativeToolTip": "Entities\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:16:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +121,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T17:40:31.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursoNelioAula208.0",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\CursoNelioAula208.0.csproj",
+              "RelativeDocumentMoniker": "CursoNelioAula208.0.csproj",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula208.0\\CursoNelioAula208.0.csproj",
+              "RelativeToolTip": "CursoNelioAula208.0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T18:15:49.342Z",
               "EditorCaption": ""
             }
           ]
