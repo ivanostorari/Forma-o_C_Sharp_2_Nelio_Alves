@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula209.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula209.0\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|solutionrelative:entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula209.0\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|solutionrelative:enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula209.0\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|solutionrelative:entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula209.0\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|solutionrelative:entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula209.0\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6AEC93-846F-4411-B039-53D0F1528C03}|CursoNelioAula209.0.csproj|solutionrelative:entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:39:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\IShape.cs",
+              "RelativeDocumentMoniker": "Entities\\IShape.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\IShape.cs",
+              "RelativeToolTip": "Entities\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:38:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\Circle.cs",
+              "RelativeToolTip": "Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:37:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractShape.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\AbstractShape.cs",
+              "RelativeDocumentMoniker": "Entities\\AbstractShape.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Entities\\AbstractShape.cs",
+              "RelativeToolTip": "Entities\\AbstractShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:35:47.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Enums\\Color.cs",
+              "RelativeToolTip": "Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:33:41.018Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula209.0\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T20:00:31.89Z",
               "EditorCaption": ""
