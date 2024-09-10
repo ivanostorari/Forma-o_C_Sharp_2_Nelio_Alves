@@ -7,7 +7,7 @@ namespace CursoNelioAula2110
     {
         static void Main(string[] args)
         {
-            string path = @"c :\Temp\int.txt";
+            string path = @"C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula211.0\in.txt";
             try
             {
                 using (StreamReader sr = File.OpenText(path))

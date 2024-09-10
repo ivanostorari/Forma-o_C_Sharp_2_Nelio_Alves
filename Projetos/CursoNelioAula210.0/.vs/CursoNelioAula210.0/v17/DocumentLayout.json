@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula210.0\\device\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula210.0\\device\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula210.0\\device\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula210.0\\device\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula210.0\\device\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula210.0\\device\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_2_nelio_alves\\principal\\projetos\\cursonelioaula210.0\\device\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1CF593-31CD-4728-8BC5-D8B9CFC88450}|CursoNelioAula210.0.csproj|solutionrelative:device\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Printer.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula210.0\\Device\\Printer.cs",
               "RelativeDocumentMoniker": "Device\\Printer.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula210.0\\Device\\Printer.cs",
               "RelativeToolTip": "Device\\Printer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T20:35:04.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Device.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula210.0\\Device\\Device.cs",
               "RelativeDocumentMoniker": "Device\\Device.cs",
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Device\\Device.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T20:33:16.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T20:33:16.587Z"
             },
             {
               "$type": "Document",
@@ -78,7 +77,7 @@
               "RelativeDocumentMoniker": "Device\\ComboDevice.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula210.0\\Device\\ComboDevice.cs",
               "RelativeToolTip": "Device\\ComboDevice.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowAEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T20:32:39.51Z",
               "EditorCaption": ""
@@ -91,7 +90,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula210.0\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T20:27:57.639Z",
               "EditorCaption": ""
@@ -124,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Scanner.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula210.0\\Device\\Scanner.cs",
               "RelativeDocumentMoniker": "Device\\Scanner.cs",
