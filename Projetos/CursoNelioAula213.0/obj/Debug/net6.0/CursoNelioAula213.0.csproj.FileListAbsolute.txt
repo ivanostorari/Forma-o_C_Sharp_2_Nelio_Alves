@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\bin\Debug\net6.0\CursoNelioAula213.0.exe
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\bin\Debug\net6.0\CursoNelioAula213.0.deps.json
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\bin\Debug\net6.0\CursoNelioAula213.0.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\bin\Debug\net6.0\CursoNelioAula213.0.dll
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\bin\Debug\net6.0\CursoNelioAula213.0.pdb
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.dll
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\refint\CursoNelioAula213.0.dll
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.pdb
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\CursoNelioAula213.0.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_2_Nelio_Alves\Principal\Projetos\CursoNelioAula213.0\obj\Debug\net6.0\ref\CursoNelioAula213.0.dll
