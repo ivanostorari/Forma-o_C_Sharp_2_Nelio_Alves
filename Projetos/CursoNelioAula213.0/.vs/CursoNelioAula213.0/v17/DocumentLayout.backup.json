@@ -30,9 +30,9 @@
               "Title": "PrintService.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula213.0\\PrintService.cs",
               "RelativeDocumentMoniker": "PrintService.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula213.0\\PrintService.cs*",
-              "RelativeToolTip": "PrintService.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAA/wCgAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_2_Nelio_Alves\\Principal\\Projetos\\CursoNelioAula213.0\\PrintService.cs",
+              "RelativeToolTip": "PrintService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T17:38:59.801Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:35:29.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T17:35:29.548Z"
             }
           ]
         }
